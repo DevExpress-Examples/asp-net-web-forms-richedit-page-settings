@@ -5,6 +5,9 @@
 * **[Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))**
 <!-- default file list end -->
 # ASPxRichEdit - How to define the default page settings such as margins, paper kind etc
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t520406/)**
+<!-- run online end -->
 
 
 <p>It's possible to use the non-visual <a href="https://documentation.devexpress.com/#CoreLibraries/clsDevExpressXtraRichEditRichEditDocumentServertopic"><strong>RichEditDocumentServer</strong></a> component to adjust the required document settings. Create a new document using <a href="https://documentation.devexpress.com/#CoreLibraries/clsDevExpressXtraRichEditRichEditDocumentServertopic">RichEditDocumentServer</a> and adjust its page by using the corresponding API.<br>Refer to the following documentation articles, where you can learn how to set the required properties:</p>
