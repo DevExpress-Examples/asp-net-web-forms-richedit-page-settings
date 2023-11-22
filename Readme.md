@@ -12,7 +12,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/t520406/)**
 <!-- run online end -->
 
-This example demonstrates how to set a document page's landscape, paper kind, margins and font properties.
+This example demonstrates how to set a document page's landscape, paper kind, margins, and font properties.
 
 ## Implementation Details
 
