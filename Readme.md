@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T520406)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 
-# ASPxRichEdit - How to define the default page settings such as margins, paper kind etc
+# ASPxRichEdit - How to define default page settings such as margins, paper kind, etc.
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/t520406/)**
 <!-- run online end -->
