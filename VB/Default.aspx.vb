@@ -30,7 +30,7 @@ Partial Public Class _Default
 		server.Document.DefaultCharacterProperties.FontSize = 12f
 		server.Document.DefaultCharacterProperties.ForeColor = Color.Red
 
-		server.Document.Sections(0).Page.PaperKind = DevExpress.Drawing.Printing.DXPaperKind.Custom
+		server.Document.Sections(0).Page.PaperKind = System.Drawing.Printing.PaperKind.Custom
 		server.Document.Sections(0).Page.Width = 105f
 		server.Document.Sections(0).Page.Height = 297f
 
