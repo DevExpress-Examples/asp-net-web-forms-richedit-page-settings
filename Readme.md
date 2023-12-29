@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # ASPxRichEdit - How to define default page settings such as margins, paper kind, etc.
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128545359/)**
-<!-- run online end -->
 
 This example demonstrates how to set a document page's landscape, paper kind, margins, and font properties.
 
